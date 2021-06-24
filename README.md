@@ -1,4 +1,4 @@
-# Hi there, I'm Leo 👋
+# Howdy, I'm Leo 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-leonardofamaral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardofamaral/)](https://www.linkedin.com/in/leonardofamaral/)
 [![Gmail Badge](https://img.shields.io/badge/-lnd.amaral@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lnd.amaral@gmail.com)](mailto:lnd.amaral@gmail.com)
