@@ -7,10 +7,10 @@
 ## ⚡ Github Stats
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="420" align="left" alt="Leo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lndamaral&count_private=true&show_icons=true&theme=merko&hide_border=true" />
+    <img width="420" align="left" alt="Leo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lndamaral&count_private=true&show_icons=true&theme=blue-green&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" alt="Leo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lndamaral&layout=compact&langs_count=6&theme=merko&hide_border=true&count_private=true" />
+    <img align="left" alt="Leo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lndamaral&layout=compact&langs_count=6&theme=blue-green&hide_border=true" />
   </a>
 </p>
 
