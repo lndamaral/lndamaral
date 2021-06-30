@@ -1,8 +1,5 @@
 # Howdy, I'm Leo 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-leonardofamaral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardofamaral/)](https://www.linkedin.com/in/leonardofamaral/)
-[![Gmail Badge](https://img.shields.io/badge/-lnd.amaral@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lnd.amaral@gmail.com)](mailto:lnd.amaral@gmail.com)
-
 Leo has over a decade of software testing experience in Agile testing, load testing, continuous delivery, and mostly testing automation. He’s capable of working with a wide variety of software quality tools and environments. Leo is certified in Tester Foundation Level and Tester Advanced Level and also has a technical license in software analysis/development and graduate studies in business management specialization.
 
 ## Skills and Knowledge
